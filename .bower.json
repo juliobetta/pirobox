@@ -6,11 +6,11 @@
     "./js/pirobox_extended.js"
   ],
   "homepage": "https://github.com/juliobetta/pirobox",
-  "_release": "888f8d4a85",
+  "_release": "9e9159991d",
   "_resolution": {
     "type": "branch",
     "branch": "master",
-    "commit": "888f8d4a85d388fec04f27b32a7dc27135fed192" 
+    "commit": "9e9159991dbce482f38c460986b83768d603f625" 
   },
   "_source": "git://github.com/juliobetta/pirobox.git",
   "_target": "*",
