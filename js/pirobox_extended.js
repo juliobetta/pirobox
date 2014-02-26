@@ -353,7 +353,7 @@
 			} 	
 		}
 	});
-		$('.immagine').live('click',function(){
+		$('.immagine').on('click',function(){
 		piro_capt.slideToggle(200);
 	});
 	
